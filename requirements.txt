@@ -29,6 +29,7 @@ onnxruntime_gpu==1.15.1
 torch==2.1.1
 torchcrepe==0.0.21
 torchgen>=0.0.1
+Flask
 torch_directml
 torchvision==0.16.1
 
@@ -38,6 +39,5 @@ tensorboard
 
 # Miscellaneous
 ffmpy==0.3.1
-git+https://github.com/lanpa/tensorboardX
 edge-tts==6.1.9
-flask
+
